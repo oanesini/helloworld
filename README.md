@@ -1,4 +1,4 @@
-# Hello World projet
+# Hello World project
 
 ## purpose
 
